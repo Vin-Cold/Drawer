@@ -1,0 +1,1 @@
+dot test.dot -T png -o test.png
